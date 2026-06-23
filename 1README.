@@ -1,2 +1,2 @@
 # Hyper-V-Network-Lab
-I built a virtual network in Hyper‑V using Windows, Kali Linux, and a pfSense firewall to simulate a small enterprise environment. Each system was assigned a static IP and connected through an internal switch, allowing me to test communication, understand traffic flow, and practice real networking fundamentals.
+
