@@ -1,0 +1,18 @@
+Tools used
+Hyper‑V – Virtualization platform used to build the entire network
+Windows 10 VM – Workstation for IP configuration and connectivity testing
+Kali Linux VM – Linux host for network commands and verification
+pfSense Firewall – Open‑source firewall acting as the network backbone
+Hyper‑V Virtual Switch Manager – Created the internal LAN environment
+Windows CMD / PowerShell – Used for ipconfig and ping tests
+Linux Terminal – Used for ip a and communication checks
+Objective - To build a small, isolated virtual network using Windows, Kali Linux, and a pfSense firewall inside Hyper‑V. The goal was to configure static IPs, connect all systems through an internal switch, and verify host‑to‑host communication to demonstrate core networking and firewall fundamentals.
+What I learned
+How to create and manage multiple VMs in Hyper‑V
+How internal virtual switches form isolated LANs
+How to assign and verify static IP addresses
+Differences between Windows and Linux networking
+How to test communication using ping, ipconfig, and ip a
+How a firewall sits inside a network and affects traffic flow
+How devices communicate across the same subnet
+Foundational skills for IT support, SOC, and blue‑team work
